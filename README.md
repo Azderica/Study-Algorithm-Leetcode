@@ -1,4 +1,5 @@
 # Study-Algorithm-Leetcode
+
 [Study] Study Algorithm - Leetcode.
 
 **link** : https://leetcode.com/
@@ -25,7 +26,7 @@
 | 17    | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [LetterCombinationsOfAPhoneNumber.java](./LetterCombinationsOfAPhoneNumber.java) |                                                              |
 | 19    | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [RemoveNthNodeFromEndofList.java](./RemoveNthNodeFromEndofList.java) |                                                              |
 | 22    | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [GenerateParentheses.java](./GenerateParentheses.java)       |                                                              |
-|       |                                                              |                                                              |                                                              |
+| 24    | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [SwapNodesInPairs.java](./SwapNodesInPairs.java)             |                                                              |
 |       |                                                              |                                                              |                                                              |
 |       |                                                              |                                                              |                                                              |
 |       |                                                              |                                                              |                                                              |
