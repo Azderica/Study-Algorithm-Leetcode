@@ -27,7 +27,7 @@
 | 19    | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [RemoveNthNodeFromEndofList.java](./RemoveNthNodeFromEndofList.java) |                                                              |
 | 22    | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [GenerateParentheses.java](./GenerateParentheses.java)       |                                                              |
 | 24    | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [SwapNodesInPairs.java](./SwapNodesInPairs.java)             |                                                              |
-|       |                                                              |                                                              |                                                              |
+| 31    | [Next Permutation](https://leetcode.com/problems/next-permutation) | [NextPermutation.java](./NextPermutation.java)               |                                                              |
 |       |                                                              |                                                              |                                                              |
 |       |                                                              |                                                              |                                                              |
 |       |                                                              |                                                              |                                                              |
