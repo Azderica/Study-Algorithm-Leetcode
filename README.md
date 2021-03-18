@@ -28,7 +28,7 @@
 | 22    | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [GenerateParentheses.java](./GenerateParentheses.java)       |                                                              |
 | 24    | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [SwapNodesInPairs.java](./SwapNodesInPairs.java)             |                                                              |
 | 31    | [Next Permutation](https://leetcode.com/problems/next-permutation) | [NextPermutation.java](./NextPermutation.java)               |                                                              |
-|       |                                                              |                                                              |                                                              |
+| 33    | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/)            | [SearchInRotatedSortedArray.java](./SearchInRotatedSortedArray.java)                                                             |                                                              |
 |       |                                                              |                                                              |                                                              |
 |       |                                                              |                                                              |                                                              |
 
