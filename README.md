@@ -29,7 +29,7 @@
 | 24    | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [SwapNodesInPairs.java](./SwapNodesInPairs.java)             |                                                              |
 | 31    | [Next Permutation](https://leetcode.com/problems/next-permutation) | [NextPermutation.java](./NextPermutation.java)               |                                                              |
 | 33    | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/) | [SearchInRotatedSortedArray.java](./SearchInRotatedSortedArray.java) |                                                              |
-| 34    | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)   | [ValidSudoku.java](./ValidSudoku.java)                       |                                                              |
+| 36    | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)   | [ValidSudoku.java](./ValidSudoku.java)                       |                                                              |
 |       |                                                              |                                                              |                                                              |
 
 
