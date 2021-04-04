@@ -29,6 +29,7 @@
 | 24    | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [SwapNodesInPairs.java](./SwapNodesInPairs.java)             |                                                              |
 | 31    | [Next Permutation](https://leetcode.com/problems/next-permutation) | [NextPermutation.java](./NextPermutation.java)               |                                                              |
 | 33    | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/) | [SearchInRotatedSortedArray.java](./SearchInRotatedSortedArray.java) |                                                              |
+| 34    | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [FindFirstAndLastPositionOfElementInSortedArray.java](./FindFirstAndLastPositionOfElementInSortedArray.java) |                                                              |
 | 36    | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)   | [ValidSudoku.java](./ValidSudoku.java)                       |                                                              |
 |       |                                                              |                                                              |                                                              |
 
