@@ -34,7 +34,7 @@
 | 38    | [Count and Say](https://leetcode.com/problems/count-and-say) | [CountAndSay.java](./CountAndSay.java)                       |                                                              |
 | 39    | [Combination Sum](https://leetcode.com/problems/combination-sum) | [CombinationSum.java](./CombinationSum.java)                 |                                                              |
 | 40    | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [CombinationSum2.java](./CombinationSum2.java)               |                                                              |
-|       |                                                              |                                                              |                                                              |
+| 43    | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [MultiplyStrings.java](./MultiplyStrings.java)               |                                                              |
 |       |                                                              |                                                              |                                                              |
 
 
