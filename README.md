@@ -36,6 +36,7 @@
 | 40    | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [CombinationSum2.java](./CombinationSum2.java)               |                                                              |
 | 43    | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [MultiplyStrings.java](./MultiplyStrings.java)               |                                                              |
 | 45    | [Jump Game II](https://leetcode.com/problems/jump-game-ii)   | [JumpGame2.java](./JumpGame2.java)                           |                                                              |
+| 46    | [Permutations](https://leetcode.com/problems/permutations)   | [Permutations.java](./Permutations.java)                     |                                                              |
 
 
 
