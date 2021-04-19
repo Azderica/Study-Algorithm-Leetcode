@@ -39,6 +39,7 @@
 | 46    | [Permutations](https://leetcode.com/problems/permutations)   | [Permutations.java](./Permutations.java)                     |                                                              |
 | 47    | [Permutations II](https://leetcode.com/problems/permutations-ii) | [Permutations2.java](./Permutations2.java)                   |                                                              |
 | 48    | [Rotate Image](https://leetcode.com/problems/rotate-image)   | [RotateImage.java](./RotateImage.java)                       |                                                              |
+| 49    | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GroupAnagrams.java](./GroupAnagrams.java)                   |                                                              |
 
 
 
