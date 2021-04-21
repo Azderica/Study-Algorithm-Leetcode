@@ -8,8 +8,8 @@
 
 ## Contents.
 
-| Index | Name                                                                                                                                             | Code                                                                                                                                             |     |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| Index | Name                                                                                                                                             | Code                                                                                                                                             |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)                                                                                 | [AddTwoNumbers.java](./1-50/AddTwoNumbers.java)                                                                                                  |
 | 3     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)                   | [LongestSubstringWithoutRepeatingCharacters.java](./1-50/LongestSubstringWithoutRepeatingCharacters.java)                                        |
 | 4     | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)                                                         | [MedianOfTwoSortedArrays.java](./1-50/MedianOfTwoSortedArrays.java)                                                                              |
