@@ -40,6 +40,9 @@
 | 49    | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GroupAnagrams.java](./1-50/GroupAnagrams.java)              |
 | 54    | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [SpiralMatrix.java](./51-100/SpiralMatrix.java)              |
 | 55    | [Jump Game](https://leetcode.com/problems/jump-game)         | [JumpGame.java](./51-100/JumpGame.java)                      |
+| 56    | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [MergeIntervals.java](./51-100/MergeIntervals.java)          |
+
+
 
 ## Tip.
 
