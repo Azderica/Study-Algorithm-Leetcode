@@ -41,6 +41,7 @@
 | 54    | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [SpiralMatrix.java](./51-100/SpiralMatrix.java)              |
 | 55    | [Jump Game](https://leetcode.com/problems/jump-game)         | [JumpGame.java](./51-100/JumpGame.java)                      |
 | 56    | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [MergeIntervals.java](./51-100/MergeIntervals.java)          |
+| 57    | [Insert Interval](https://leetcode.com/problems/insert-interval) | [InsertInterval.java](./51-100/InsertInterval.java)          |
 
 
 
