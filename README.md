@@ -42,6 +42,7 @@
 | 55    | [Jump Game](https://leetcode.com/problems/jump-game)         | [JumpGame.java](./51-100/JumpGame.java)                      |
 | 56    | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [MergeIntervals.java](./51-100/MergeIntervals.java)          |
 | 57    | [Insert Interval](https://leetcode.com/problems/insert-interval) | [InsertInterval.java](./51-100/InsertInterval.java)          |
+| 62    | [Unique Paths](https://leetcode.com/problems/unique-paths)   | [UniquePaths.java](./51-100/UniquePaths.java)                |
 
 
 
