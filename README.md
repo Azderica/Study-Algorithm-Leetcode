@@ -8,7 +8,7 @@
 
 ## Contents.
 
-| Index | Name                                                         | Code                                                         |
+| Index | Problem                                                     | Solution                                                     |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [AddTwoNumbers.java](./1-50/AddTwoNumbers.java)              |
 | 3     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [LongestSubstringWithoutRepeatingCharacters.java](./1-50/LongestSubstringWithoutRepeatingCharacters.java) |
