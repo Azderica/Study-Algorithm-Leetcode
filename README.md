@@ -10,7 +10,7 @@
 
 ### LeetCode
 
-| Index | Name                                                         | Code                                                         |
+| Index | Name                                                         | Code    
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [AddTwoNumbers.java](./1-50/AddTwoNumbers.java)              |
 | 3     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [LongestSubstringWithoutRepeatingCharacters.java](./1-50/LongestSubstringWithoutRepeatingCharacters.java) |
@@ -21,7 +21,7 @@
 | 8     | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [StringToInteger.java](./1-50/StringToInteger.java)          |
 | 11    | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [ContainerWithMostWater.java](./1-50/ContainerWithMostWater.java) |
 | 12    | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [IntegerToRoman.java](./1-50/IntegerToRoman.java)            |
-| 15    | [3Sum](https://leetcode.com/problems/3sum)                   | [3Sum.java](https://github.com/Azderica/Study-Algorithm-Leetcode/blob/master/3Sum.java)<br />[3Sum(modified).java](<./1-50/3Sum(modified).java>) |
+| 15    | [3Sum](https://leetcode.com/problems/3sum)                   | [3Sum.java](https://github.com/Azderica/Study-Algorithm-Leetcode/blob/master/3Sum.java) <br/> [3Sum(modified).java](<./1-50/3Sum(modified).java>) |
 | 16    | [3Sum Closest](https://leetcode.com/problems/3sum-closest)   | [3SumCloset.java](./1-50/3SumCloset.java)                    |
 | 17    | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [LetterCombinationsOfAPhoneNumber.java](./1-50/LetterCombinationsOfAPhoneNumber.java) |
 | 19    | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [RemoveNthNodeFromEndofList.java](./1-50/RemoveNthNodeFromEndofList.java) |
@@ -41,6 +41,13 @@
 | 48    | [Rotate Image](https://leetcode.com/problems/rotate-image)   | [RotateImage.java](./1-50/RotateImage.java)                  |
 | 49    | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [GroupAnagrams.java](./1-50/GroupAnagrams.java)              |
 | 54    | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [SpiralMatrix.java](./51-100/SpiralMatrix.java)              |
+| 55    | [Jump Game](https://leetcode.com/problems/jump-game)         | [JumpGame.java](./51-100/JumpGame.java)                      |
+| 56    | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [MergeIntervals.java](./51-100/MergeIntervals.java)          |
+| 57    | [Insert Interval](https://leetcode.com/problems/insert-interval) | [InsertInterval.java](./51-100/InsertInterval.java)          |
+| 59    | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [SpiralMatrix2.java](./51-100/SpiralMatrix2.java)            |
+| 62    | [Unique Paths](https://leetcode.com/problems/unique-paths)   | [UniquePaths.java](./51-100/UniquePaths.java)                |
+
+
 
 - Tip. 해당 코드는 실행을 위해서 static을 붙였습니다. 제출 시에는 static을 빼주세요.
 
