@@ -1,10 +1,10 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution {
+public class 가장먼노드 {
     public int solution(int n, int[][] edge) {
         ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
         boolean[] visited = new boolean[n + 1];
