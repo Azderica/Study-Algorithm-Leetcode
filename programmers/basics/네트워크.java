@@ -1,6 +1,6 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
-class Solution {
+public class 네트워크 {
     public boolean[] visited;
 
     public int solution(int n, int[][] computers) {
