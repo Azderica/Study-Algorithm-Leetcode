@@ -1,10 +1,10 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class Solution {
+public class 여행경로 {
     boolean[] visited;
     List<String> paths;
     static final String START = "ICN";
