@@ -1,9 +1,9 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution {
+public class 프린터 {
     class Task {
         int location;
         int priority;
@@ -40,4 +40,5 @@ class Solution {
         }
         return answer;
     }
+
 }
