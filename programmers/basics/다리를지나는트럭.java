@@ -1,9 +1,9 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-class Solution {
+public class 다리를지나는트럭 {
     public int solution(int bridge_length, int weight, int[] truck_weights) {
         int answer = bridge_length;
         int cur_weight = 0;
