@@ -1,8 +1,8 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.Stack;
 
-class Solution {
+public class 주식가격 {
     class Stock {
         int index;
         int price;
