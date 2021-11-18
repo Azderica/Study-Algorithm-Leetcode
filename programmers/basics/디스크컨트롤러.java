@@ -1,10 +1,10 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 
-class Solution {
+public class 디스크컨트롤러 {
     class Job {
         int start;
         int time;
