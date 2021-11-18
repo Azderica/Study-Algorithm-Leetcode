@@ -1,9 +1,9 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-class Solution {
+public class 이중우선순위큐 {
     public int[] solution(String[] operations) {
         int[] answer = {0, 0};
         PriorityQueue<Integer> ascPq = new PriorityQueue<>();
