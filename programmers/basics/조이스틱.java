@@ -1,6 +1,6 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
-class Solution {
+public class 조이스틱 {
     public int solution(String name) {
         int answer = 0, len = name.length();
         char[] keys = name.toCharArray();
