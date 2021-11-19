@@ -1,6 +1,6 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
-class Solution {
+public class 큰수만들기 {
     public String solution(String number, int k) {
         StringBuilder sb = new StringBuilder();
         int index = 0, max = 0, len = number.length();
