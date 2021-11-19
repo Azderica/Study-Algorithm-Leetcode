@@ -1,6 +1,6 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
-class Solution {
+public class 등굣길 {
     private static int MAX_VAL = 1000000007;
 
     public int solution(int m, int n, int[][] puddles) {
