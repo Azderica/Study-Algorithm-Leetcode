@@ -1,6 +1,6 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
-class Solution {
+public class 도둑질 {
     public int solution(int[] money) {
         int size = money.length;
         int[] dp_1 = new int[size];
