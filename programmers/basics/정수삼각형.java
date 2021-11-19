@@ -1,6 +1,6 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
-class Solution {
+public class 정수삼각형 {
     public int solution(int[][] triangle) {
         int size = triangle.length, answer = 0;
         int dp[][] = new int[size][size];
