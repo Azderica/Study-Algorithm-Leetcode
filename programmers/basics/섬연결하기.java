@@ -1,9 +1,9 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
-class Solution {
+public class 섬연결하기 {
     public int solution(int n, int[][] costs) {
         int answer = 0;
         int[] parents = new int[n];
