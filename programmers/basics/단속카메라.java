@@ -1,9 +1,9 @@
-package com.myepark.programmers;
+package com.myepark.programmers.basics;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
-class Solution {
+public class 단속카메라 {
     public int solution(int[][] routes) {
         int answer = 0, min = Integer.MIN_VALUE;
 
