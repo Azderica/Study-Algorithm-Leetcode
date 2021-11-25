@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Solution {
+public class P3Sum {
 
     public static void output(List<List<Integer>> req) {
         for (List<Integer> row : req) {

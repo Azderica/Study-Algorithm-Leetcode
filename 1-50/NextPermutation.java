@@ -3,7 +3,7 @@ package com.myepark;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Solution {
+public class NextPermutation {
 
     public static void output(int[] nums) {
         for(int val : nums)

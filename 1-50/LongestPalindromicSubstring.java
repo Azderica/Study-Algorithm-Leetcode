@@ -1,7 +1,6 @@
 package com.myepark;
 
-public class Solution {
-
+public class LongestPalindromicSubstring {
     public static void main(String[] args) {
         System.out.println(longestPalindrome("babad"));
         System.out.println(longestPalindrome("cbbd"));

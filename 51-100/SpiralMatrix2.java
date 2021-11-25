@@ -1,6 +1,6 @@
 package com.myepark;
 
-public class Solution {
+public class SpiralMatrix2 {
 
   public static void output(int[][] res) {
     for(int[] list : res) {

@@ -1,6 +1,6 @@
 package com.myepark;
 
-public class Solution {
+public class JumpGame2 {
 
     public static void main(String[] args) {
         System.out.println(jump(new int[]{2, 3, 1, 1, 4}));

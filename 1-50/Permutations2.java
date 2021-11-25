@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Solution {
+public class Permutations2 {
 
     public static void output(List<List<Integer>> res) {
         for(List<Integer> list : res) {

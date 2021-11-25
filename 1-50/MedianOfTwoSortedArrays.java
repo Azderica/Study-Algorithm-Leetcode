@@ -1,6 +1,6 @@
 package com.myepark;
 
-public class Solution {
+public class MedianOfTwoSortedArrays {
 
     public static void main(String[] args) {
         System.out.println(findMedianSortedArrays(new int[]{1, 3}, new int[]{2}));

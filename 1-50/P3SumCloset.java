@@ -2,7 +2,7 @@ package com.myepark;
 
 import java.util.Arrays;
 
-public class Solution {
+public class P3SumCloset {
 
     public static void main(String[] args) {
         System.out.println(threeSumClosest(new int[]{-1, 2, 1, -4}, 1));

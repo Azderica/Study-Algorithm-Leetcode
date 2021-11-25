@@ -1,6 +1,6 @@
 package com.myepark;
 
-public class Solution {
+public class IntegerToRoman {
 
     public static void main(String[] args) {
         System.out.println(intToRoman(3));

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class Solution {
+public class GroupAnagrams {
 
     public static void output(List<List<String>> res) {
         for (List<String> list : res) {

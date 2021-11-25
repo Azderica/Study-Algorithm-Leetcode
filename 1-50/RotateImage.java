@@ -1,6 +1,6 @@
 package com.myepark;
 
-public class Solution {
+public class RotateImage {
 
     public static void output(int[][] res) {
         for (int[] list : res) {

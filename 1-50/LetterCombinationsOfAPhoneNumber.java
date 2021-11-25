@@ -2,7 +2,7 @@ package com.myepark;
 
 import java.util.*;
 
-public class Solution {
+public class LetterCombinationsOfAPhoneNumber {
 
     public static void output(List<String> req) {
         for (String val : req) {

@@ -1,6 +1,15 @@
 package com.myepark;
 
-public class Solution {
+public class AddTwoNumbers {
+    static class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
+        }
+    }
 
     public static void main(String[] args) {
         int[] l1_vals = {9, 9, 9, 9, 9, 9, 9};

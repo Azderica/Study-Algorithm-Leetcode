@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
-public class Solution {
+public class InsertInterval {
 
   public static void output(int[][] res) {
     for (int[] line : res) {

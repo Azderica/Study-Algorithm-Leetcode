@@ -1,31 +1,29 @@
 package com.myepark;
 
-import java.util.List;
+public class SwapNodesInPairs {
+    static class ListNode {
+        int val;
+        ListNode next;
 
-class ListNode {
-    int val;
-    ListNode next;
+        ListNode() {
+        }
 
-    ListNode() {
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
+        }
     }
 
-    ListNode(int val) {
-        this.val = val;
-    }
-
-    ListNode(int val, ListNode next) {
-        this.val = val;
-        this.next = next;
-    }
-}
-
-public class Solution {
     public static ListNode input(int[] input) {
-        if(input.length == 0)
+        if (input.length == 0)
             return null;
         ListNode head = new ListNode(input[0], null);
         ListNode cur = head;
-        for(int i=1; i<input.length; i++) {
+        for (int i = 1; i < input.length; i++) {
             cur.next = new ListNode(input[i], null);
             cur = cur.next;
         }
@@ -48,7 +46,7 @@ public class Solution {
     }
 
     public static ListNode swapPairs(ListNode head) {
-        if(head == null || head.next == null)
+        if (head == null || head.next == null)
             return head;
 
         ListNode fast = head.next;
@@ -60,7 +58,7 @@ public class Solution {
         fast.val = slow.val;
         slow.val = tmp;
 
-        while(fast.next != null && fast.next.next != null) {
+        while (fast.next != null && fast.next.next != null) {
             fast = fast.next.next;
             slow = slow.next.next;
 

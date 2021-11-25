@@ -1,6 +1,6 @@
 package com.myepark;
 
-public class Solution {
+public class FindFirstAndLastPositionOfElementInSortedArray {
 
     public static void output(int[] res) {
         System.out.println(res[0] + ", " + res[1]);

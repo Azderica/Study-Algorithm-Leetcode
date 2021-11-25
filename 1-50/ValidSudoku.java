@@ -2,7 +2,7 @@ package com.myepark;
 
 import java.util.Arrays;
 
-public class Solution {
+public class ValidSudoku {
 
     public static void main(String[] args) {
         char[][] input_1 =

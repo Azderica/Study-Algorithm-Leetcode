@@ -22,7 +22,7 @@
 | 11    | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [ContainerWithMostWater.java](./1-50/ContainerWithMostWater.java) |
 | 12    | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [IntegerToRoman.java](./1-50/IntegerToRoman.java)            |
 | 15    | [3Sum](https://leetcode.com/problems/3sum)                   | [3Sum.java](https://github.com/Azderica/Study-Algorithm-Leetcode/blob/master/3Sum.java) <br/> [3Sum(modified).java](<./1-50/3Sum(modified).java>) |
-| 16    | [3Sum Closest](https://leetcode.com/problems/3sum-closest)   | [3SumCloset.java](./1-50/3SumCloset.java)                    |
+| 16    | [3Sum Closest](https://leetcode.com/problems/3sum-closest)   | [3SumCloset.java](./1-50/P3SumCloset.java)                    |
 | 17    | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [LetterCombinationsOfAPhoneNumber.java](./1-50/LetterCombinationsOfAPhoneNumber.java) |
 | 19    | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [RemoveNthNodeFromEndofList.java](./1-50/RemoveNthNodeFromEndofList.java) |
 | 22    | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [GenerateParentheses.java](./1-50/GenerateParentheses.java)  |

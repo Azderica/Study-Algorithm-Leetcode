@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 
-public class Solution {
+public class MergeIntervals {
 
   public static void output(int[][] res) {
     for (int[] line : res) {

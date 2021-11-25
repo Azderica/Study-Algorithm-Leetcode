@@ -3,7 +3,7 @@ package com.myepark;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class SpiralMatrix {
 
   public static void ouptut(List<Integer> res) {
     for (Integer num : res) {

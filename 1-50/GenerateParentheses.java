@@ -3,7 +3,7 @@ package com.myepark;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class GenerateParentheses {
     public static void output(List<String> req) {
         for (String val : req) {
             System.out.print(val + " ");

@@ -3,7 +3,7 @@ package com.myepark;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class Permutations {
 
     public static void output(List<List<Integer>> res) {
         for(List<Integer> list : res) {

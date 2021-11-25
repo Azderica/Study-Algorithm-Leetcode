@@ -3,7 +3,7 @@ package com.myepark;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class CombinationSum {
 
     public static void output(List<List<Integer>> res) {
         for (int i = 0; i < res.size(); i++) {

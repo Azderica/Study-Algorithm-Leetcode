@@ -1,6 +1,6 @@
 package com.myepark;
 
-public class Solution {
+public class UniquePaths {
 
   public static void main(String[] args) {
     System.out.println(uniquePaths(3, 7));
