@@ -5,7 +5,7 @@ public class MergeTwoSortedLinkedLists {
         int data;
         SinglyLinkedListNode next;
 
-        public SinglyLinkedListNode(data) {
+        public SinglyLinkedListNode(int data) {
             this.data = data;
             this.next = null;
         }
