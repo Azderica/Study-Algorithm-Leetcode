@@ -2,7 +2,7 @@ package com.myepark.leetcode.from151to200;
 
 import java.util.*;
 
-public class NumberOfIslands {class Solution {
+public class NumberOfIslands {
     public int numIslands(char[][] grid) {
         // initialize
         int numberOfIsland = 0;
